@@ -1,0 +1,59 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fakefriendscall.indiagirlsmobilenumbers.SexyGirlfakecallwacallvideo",
+      "interval":50
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "name":"Payal Dhare",
+      "image_url":"file:///android_asset/payalgaming1.webp",
+      "video_url":"payaldharevideo",
+      "voice_url":"payaldharevoice.mp3"
+    },
+    {
+      "id":2,
+      "name":"Saloni Kadalguankar",
+      "image_url":"file:///android_asset/salonigaing.webp",
+      "video_url":"salobivideo",
+      "voice_url":"SaloniKadalguankarmilikyamilivoice.mp3"
+    },
+    {
+      "id":3,
+      "name":"Pooja",
+      "image_url":"file:///android_asset/poojaagaming.webp",
+      "video_url":"poojavideo",
+      "voice_url":"Poojavoice.mp3"
+    },
+    {
+      "id":4,
+      "name":"Shagufta Iqbal",
+      "image_url":"file:///android_asset/shaguftaiqbal.webp",
+      "video_url":"shaguftavideo",
+      "voice_url":"shaguftaiqbalxyaavoice.mp3"
+    },
+    {
+      "id":5,
+      "name":"Sooneeta",
+      "image_url":"file:///android_asset/sooneetagaming.webp",
+      "video_url":"sooneetavideo",
+      "voice_url":"sooneetavoice.mp3"
+    }
+  ]
+
+}
