@@ -1,0 +1,74 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "prank_video_call.japanese.girlfriend",
+      "interval":50
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Video Call Dengan Cewek Cantik",
+      "image":"file:///android_asset/cewekcantik.png",
+      "link":"https://play.google.com/store/apps/details?id=panggilan_palsu_prank.wavideocall.bersama.cewek.cantik.terbaru"
+    },
+    {
+      "id":1,
+      "title":"India Girl",
+      "image":"file:///android_asset/indiagirl.png",
+      "link":"https://play.google.com/store/apps/details?id=fakefriendscall.indiagirlsmobilenumbers.SexyGirlfakecallwacallvideo"
+    
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Japanese Girl 1",
+      "image_url":"file:///android_asset/gamabarjapanese1.webp",
+      "video_url":"japanesdeavidonewehor1",
+      "voice_url":"japanesevoicesua1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Japanese Girl 2",
+      "image_url":"file:///android_asset/gamabarjapanese2.webp",
+      "video_url":"japanesdeavidonewehor2",
+      "voice_url":"japanesevoicesua2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Japanese Girl 3",
+      "image_url":"file:///android_asset/gamabarjapanese3.webp",
+      "video_url":"japanesdeavidonewehor3",
+      "voice_url":"japanesevoicesua3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Japanese Girl 4",
+      "image_url":"file:///android_asset/pgamabarjapanese4.webp",
+      "video_url":"japanesdeavidonewehor4",
+      "voice_url":"japanesevoicesua4.mp3"
+    },
+    {
+      "id":5,
+      "name":"Japanese Girl 5",
+      "image_url":"file:///android_asset/gamabarjapanese5.webp",
+      "video_url":"japanesdeavidonewehor4",
+      "voice_url":"japanesevoicesua5.mp3"
+    }
+  ]
+
+}
