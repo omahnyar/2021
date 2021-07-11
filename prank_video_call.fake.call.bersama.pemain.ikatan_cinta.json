@@ -1,0 +1,75 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "prank_video_call.fake.call.bersama.pemain.ikatan_cinta",
+      "interval":50
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Pocong Serem",
+      "image":"file:///android_asset/pocong.png",
+      "link":"https://play.google.com/store/apps/details?id=fake_call_pocong.wa_video_call_dengan_pocong.fake.call.dengan.pocong"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Amanda Manopo",
+      "image_url":"file:///android_asset/Screenshot_1.webp",
+      "video_url":"ikatancintasuarav1",
+      "voice_url":"ikatancintasuara1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Arya Saloka",
+      "image_url":"file:///android_asset/Screenshot_2.webp",
+      "video_url":"ikatancintasuarav2",
+      "voice_url":"ikatancintasuara2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Amanda Manopo",
+      "image_url":"file:///android_asset/Screenshot_3.webp",
+      "video_url":"ikatancintasuarav3",
+      "voice_url":"ikatancintasuara3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Arya Saloka",
+      "image_url":"file:///android_asset/Screenshot_4.webp",
+      "video_url":"ikatancintasuarav4",
+      "voice_url":"ikatancintasuara4.mp3"
+    },
+    {
+      "id":5,
+      "name":"Amanda Manopo",
+      "image_url":"file:///android_asset/Screenshot_5.webp",
+      "video_url":"ikatancintasuarav1",
+      "voice_url":"ikatancintasuara1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Arya Saloka",
+      "image_url":"file:///android_asset/Screenshot_6.webp",
+      "video_url":"ikatancintasuarav2",
+      "voice_url":"ikatancintasuara4.mp3"
+    }
+  ]
+
+}
