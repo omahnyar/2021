@@ -1,0 +1,81 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake_video_call_juyy.fake_video_call_novan.prankvideocall.offline",
+      "interval":50
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Pocong Serem",
+      "image":"file:///android_asset/pocong.png",
+      "link":"https://play.google.com/store/apps/details?id=fake_call_pocong.wa_video_call_dengan_pocong.fake.call.dengan.pocong"
+    },
+	{
+      "id":2,
+      "title":"Wagyu Kadeo & Dini",
+      "image":"file:///android_asset/wahyukadeo.png",
+      "link":"https://play.google.com/store/apps/details?id=fake_call_wahyu_kadeo_dini.wavideo.call.dengan.wahyu.kadeo.dini"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Juyy Dan Novan 1",
+      "image_url":"file:///android_asset/juydannovangambar1.webp",
+      "video_url":"juydannovanvideonjay1",
+      "voice_url":"juydannovansuaraanjirr1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Juyy Dan Novan 2",
+      "image_url":"file:///android_asset/juydannovangambar2.webp",
+      "video_url":"juydannovanvideonjay2",
+      "voice_url":"juydannovansuaraanjirr2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Juyy Dan Novan 3",
+      "image_url":"file:///android_asset/juydannovangambar3.webp",
+      "video_url":"juydannovanvideonjay3",
+      "voice_url":"juydannovansuaraanjirr3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Juyy Dan Novan 4",
+      "image_url":"file:///android_asset/juydannovangambar4.webp",
+      "video_url":"juydannovanvideonjay1",
+      "voice_url":"juydannovansuaraanjirr1.mp3"
+    },
+    {
+      "id":5,
+      "name":"Juyy Dan Novan 5",
+      "image_url":"file:///android_asset/juydannovangambar5.webp",
+      "video_url":"juydannovanvideonjay2",
+      "voice_url":"juydannovansuaraanjirr2.mp3"
+    },
+    {
+      "id":6,
+      "name":"Juyy Dan Novan 6",
+      "image_url":"file:///android_asset/juydannovangambar6.webp",
+      "video_url":"juydannovanvideonjay3",
+      "voice_url":"juydannovansuaraanjirr3.mp3"
+    }
+  ]
+
+}
