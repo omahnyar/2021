@@ -1,0 +1,103 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "",
+      "admob_native": "",
+      "admob_inter_reward":"",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "fake_call_wahyu_kadeo_dini.wavideo.call.dengan.wahyu.kadeo.dini",
+      "interval":50
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Pocong Serem",
+      "image":"file:///android_asset/pocong.png",
+      "link":"https://play.google.com/store/apps/details?id=fake_call_pocong.wa_video_call_dengan_pocong.fake.call.dengan.pocong"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Wahyu Kadeo & Dini 1",
+      "image_url":"file:///android_asset/kadeogambarimaes1.webp",
+      "video_url":"kadeogambarimaessuaravideo1",
+      "voice_url":"kadeogambarimaessuara1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Wahyu Kadeo & Dini 2",
+      "image_url":"file:///android_asset/kadeogambarimaes2.webp",
+      "video_url":"kadeogambarimaessuaravideo2",
+      "voice_url":"kadeogambarimaessuara2.mp3"
+    },
+    {
+      "id":3,
+      "name":"Wahyu Kadeo & Dini 3",
+      "image_url":"file:///android_asset/kadeogambarimaes3.webp",
+      "video_url":"kadeogambarimaessuaravideo3",
+      "voice_url":"kadeogambarimaessuara3.mp3"
+    },
+    {
+      "id":4,
+      "name":"Wahyu Kadeo & Dini 4",
+      "image_url":"file:///android_asset/kadeogambarimaes4.webp",
+      "video_url":"kadeogambarimaessuaravideo4",
+      "voice_url":"kadeogambarimaessuara4.mp3"
+    },
+    {
+      "id":5,
+      "name":"Wahyu Kadeo & Dini 5",
+      "image_url":"file:///android_asset/kadeogambarimaes5.webp",
+      "video_url":"kadeogambarimaessuaravideo5",
+      "voice_url":"kadeogambarimaessuara5.mp3"
+    },
+    {
+      "id":6,
+      "name":"Wahyu Kadeo & Dini 6",
+      "image_url":"file:///android_asset/kadeogambarimaes6.webp",
+      "video_url":"kadeogambarimaessuaravideo1",
+      "voice_url":"kadeogambarimaessuara1.mp3"
+    },
+    {
+      "id":7,
+      "name":"Wahyu Kadeo & Dini 7",
+      "image_url":"file:///android_asset/kadeogambarimaes7.webp",
+      "video_url":"kadeogambarimaessuaravideo2",
+      "voice_url":"kadeogambarimaessuara2.mp3"
+    },
+    {
+      "id":8,
+      "name":"Wahyu Kadeo & Dini 8",
+      "image_url":"file:///android_asset/kadeogambarimaes8.webp",
+      "video_url":"kadeogambarimaessuaravideo3",
+      "voice_url":"kadeogambarimaessuara3.mp3"
+    },
+    {
+      "id":9,
+      "name":"Wahyu Kadeo & Dini 9",
+      "image_url":"file:///android_asset/kadeogambarimaes9.webp",
+      "video_url":"kadeogambarimaessuaravideo4",
+      "voice_url":"kadeogambarimaessuara4.mp3"
+    },
+    {
+      "id":10,
+      "name":"Wahyu Kadeo & Dini 10",
+      "image_url":"file:///android_asset/kadeogambarimaes10.webp",
+      "video_url":"kadeogambarimaessuaravideo5",
+      "voice_url":"kadeogambarimaessuara5.mp3"
+    }
+  ]
+
+}
